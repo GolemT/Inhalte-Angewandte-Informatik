@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "bf481d724e437ca1",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f81ec47ed584c3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5848cd73449bcdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semester 1/Einführung in die Informatik/Geschichte der Informatik.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Geschichte der Informatik"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "532e830bbf44eb1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a637952d130b8daa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "246356c2b792e272",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "25eb62cd0080ae14",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8e9ce4342bc54a24",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "98492896c1044c83",
+    "type": "split",
+    "children": [
+      {
+        "id": "c11cee91372e6451",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "697144b67b6d75b3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Semester 1/Einführung in die Informatik/Geschichte der Informatik.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Geschichte der Informatik"
+            }
+          },
+          {
+            "id": "ab1218cad3158820",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Semester 1/Einführung in die Informatik/Geschichte der Informatik.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Geschichte der Informatik"
+            }
+          },
+          {
+            "id": "b70bc42e6ed0304f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fd74155e74eab706",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Semester 1/Einführung in die Informatik/Geschichte der Informatik.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Geschichte der Informatik"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f5848cd73449bcdf",
+  "lastOpenFiles": [
+    "Computer-Generationen.md",
+    "Semester 1/Einführung in die Informatik/Geschichte der Informatik.md",
+    "Semester 1/General Management/General Management.md",
+    "Semester 1/1. Semester.md",
+    "Semester 1/Einführung in die Informatik/WWW – Funktionsweise des Internets.md",
+    "Semester 1/Einführung in die Informatik/Datenorganisation.md",
+    "Semester 1/Einführung in die Informatik/Politik und Ethik.md",
+    "Semester 1/Einführung in die Informatik/Einführung in die Informatik Teil 1.md",
+    "Semester 1/Einführung in die Informatik/IT-Infrastruktur.md",
+    "Semester 1/Einführung in die Informatik/Informationssysteme.md",
+    "Semester 1/Einführung in die Informatik/Vernetzte Welt.md",
+    "Semester 1/General Management/Strategische Planung und Kontrolle.md",
+    "Semester 1/General Management/Unternehmensführung und Management.md",
+    "Angewandte Informatik.md",
+    "Semester 4",
+    "Semester 3",
+    "Semester 2",
+    "Semester 4/4. Semester.md",
+    "Semester 3/3. Semester.md",
+    "Semester 2/2. Semester.md",
+    "Einführung in die Informatik.md",
+    "Semester 1/Einführung in die Informatik",
+    "Semester 1/General Management/Human Resources Management.md",
+    "Semester 1/General Management/Organisation.md",
+    "Semester 1/General Management/Konstitutive Entscheidungen.md",
+    "Semester 1/General Management/Grundlagen der Betriebswirtschaftslehre.md",
+    "Semester 1/General Management",
+    "Semester 1"
+  ]
+}
